@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ultimate-weather-app/static/css/main.2e5f0e08.chunk.css",
+    "main.js": "/ultimate-weather-app/static/js/main.578747b5.chunk.js",
+    "main.js.map": "/ultimate-weather-app/static/js/main.578747b5.chunk.js.map",
+    "runtime-main.js": "/ultimate-weather-app/static/js/runtime-main.7959c134.js",
+    "runtime-main.js.map": "/ultimate-weather-app/static/js/runtime-main.7959c134.js.map",
+    "static/css/2.299a5230.chunk.css": "/ultimate-weather-app/static/css/2.299a5230.chunk.css",
+    "static/js/2.4d3b4903.chunk.js": "/ultimate-weather-app/static/js/2.4d3b4903.chunk.js",
+    "static/js/2.4d3b4903.chunk.js.map": "/ultimate-weather-app/static/js/2.4d3b4903.chunk.js.map",
+    "index.html": "/ultimate-weather-app/index.html",
+    "precache-manifest.39f3add86c61a3ad4ae5962c5d50f3b3.js": "/ultimate-weather-app/precache-manifest.39f3add86c61a3ad4ae5962c5d50f3b3.js",
+    "service-worker.js": "/ultimate-weather-app/service-worker.js",
+    "static/css/2.299a5230.chunk.css.map": "/ultimate-weather-app/static/css/2.299a5230.chunk.css.map",
+    "static/css/main.2e5f0e08.chunk.css.map": "/ultimate-weather-app/static/css/main.2e5f0e08.chunk.css.map",
+    "static/js/2.4d3b4903.chunk.js.LICENSE.txt": "/ultimate-weather-app/static/js/2.4d3b4903.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ultimate-weather-app/static/media/Prequel.18ddf2b3.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7959c134.js",
+    "static/css/2.299a5230.chunk.css",
+    "static/js/2.4d3b4903.chunk.js",
+    "static/css/main.2e5f0e08.chunk.css",
+    "static/js/main.578747b5.chunk.js"
+  ]
+}
