@@ -30,9 +30,9 @@ class App extends Component {
 //rendering cards with cities
   render(){
 	// loading in slow connection scenario - just comment componentDidMount function for test
-	if (this.state.cities.length === 0){
-		return <h1> Loading </h1>
-	} else {
+	// if (this.state.cities.length === 0){
+	// 	return <h1> Loading </h1>
+	// } else {
 	return(
 	<div className='tc'>
 		<h1 className='f1'>Weather App</h1>
@@ -41,7 +41,7 @@ class App extends Component {
 		
 	</div>
 		);
-		}
+		// }
 	}
 }
 
