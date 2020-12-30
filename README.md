@@ -1,6 +1,3 @@
-This project was created as candidate test for Linksoft company. As a junior I finished tasks 1-3. Im not using any additional libraries.
-
-
 ### `npm start`
 
 Runs the app in the development mode.<br />
